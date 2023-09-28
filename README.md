@@ -1,1 +1,154 @@
-# DesmondChong03.github.io
+<!DOCTYPE HTML>
+<!--
+	Massively by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Massively by HTML5 UP</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper" class="fade-in">
+
+				<!-- Intro -->
+					<div id="intro">
+						<h1>DESMOND CHONG<br />
+						Portfolio + Resume</h1>
+						<p>This is a website I created that contains my SQL projects and official transcripts.</a><br />
+						My SQL sever of choice is Microsoft SSMS, which is where all of my queries were entered</a>.</p>
+						<ul class="actions">
+							<li><a href="#header" class="button icon solid solo fa-arrow-down scrolly">Continue</a></li>
+						</ul>
+					</div>
+
+				<!-- Header -->
+					<header id="header">
+						<a href="index.html" class="logo">Desmond</a>
+					</header>
+
+				<!-- Nav -->
+					<nav id="nav">
+						<ul class="links">
+							<li class="active"><a href="index.html">This is My Portfolio
+						</ul>
+						<ul class="icons">
+							<li><a href="https://www.instagram.com/iamdesmondd_/" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+							<li><a href="https://www.linkedin.com/in/desmond-chong-5750a5248/" class="icon brands alt fa-linkedin"><span class="label">LinkedIn</span></a></li>
+						</ul>
+					</nav>
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- Featured Post -->
+							<article class="post featured">
+								<header class="major">
+									<span class="date">21st September, 2023</span>
+									<h2><a href="#">BEFORE WE BEGIN,<br />
+									HERE IS A BRIEF INTRODUCTION TO... ME!</a></h2>
+									<p>My actual name isn't Desmond. Surprise! My real name is Chong Dao Xiang, but my friends call me Desmond. As of 2023, I am 20 years old. The image attached below is my Foundation in Arts Transcript. Pretty cool right?</p>
+								</header>
+								<a href="#" class="image main"><img src="images/pic01.jpeg" alt="" /></a>
+								<ul class="actions special">
+									<li><a class="button large">Sunway Foundation in Arts Official Transcript</a></li>
+								</ul>
+							</article>
+
+						<!-- Posts -->
+							<section class="posts">
+								<article>
+									<header>
+										<span class="date"> 15th April, 2022</span>
+										<h2><a href="#">Sunway University Scholarship<br />
+										Degree in Finance</a></h2>
+									</header>
+									<a href="#" class="image fit"><img src="images/Sunway Degree in Finance Scholarship_page-0001.jpg" alt="" /></a>
+									<p>As I managed to obtain straight As in my Foundation programme, I was offered a Scholarship of RM15,000/Year for 3 years!</p>
+									<ul class="actions special">
+										<li><a href="#" class="button">Official Scholarship Confirmation Letter</a></li>
+									</ul>
+								</article>
+								<article>
+									<header>
+										<span class="date">18th July, 2023</span>
+										<h2><a href="#">Sunway University Leo Club<br />
+										</a></h2>
+									</header>
+									<a href="#" class="image fit"><img src="images/sql1.png" alt="" /></a>
+									<p>Yeah, the picture is pretty small, sorry! This is our Official Sunway Leo Club Name List, in which I created using purely SQL queries in Microsoft SSMS. Although the dataset is quite small as there are only 103 members as of September 2023, it still provided me lots of opportunities to learn about SQL.</p>
+									<ul class="actions special">
+										<li><a href="#" class="button">Secretary of Sunway Leo Club!</a></li>
+									</ul></a></li>
+									</ul>
+								</article>
+								<article>
+									<header>
+										<span class="date">14th August, 2023</span>
+										<h2><a href="#">SQL Island<br />
+									</header>
+									<a href="#" class="image fit"><img src="images/SQLIsland.jpg" alt="" /></a>
+									<p>After digging around the Internet, I found a game called SQL Island. This requires intermediate knowledge of SQL to successfully finish the game. I even got a certificate for completing the entire game!</p>
+									<ul class="actions special">
+										<li><a href="#" class="button">SQL Island Digital Certificate</a></li>
+									</ul>
+								</article>
+							</section>
+
+						<!-- Footer -->
+							<footer>
+								<div class="pagination">
+									<!--<a href="#" class="previous">Prev</a>-->
+									<a href="#" class="page active">1</a>
+								</div>
+							</footer>
+
+					
+						<section class="split contact">
+							<section class="alt">
+								<h3>Address</h3>
+								<p>No2, Jalan PP 5/24 Taman Putra Prima<br />
+								47130 Puchong, Selangor.</p>
+							</section>
+							<section>
+								<h3>Phone</h3>
+								<p><a href="#">+6017-5151382</a></p>
+							</section>
+							<section>
+								<h3>Email</h3>
+								<p><a href="#">chongdaoxiang@gmail.com</a></p>
+							</section>
+							<section>
+								<h3>Social</h3>
+								<ul class="icons alt">
+									<li><a href="https://www.instagram.com/iamdesmondd_/" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+							<li><a href="https://www.linkedin.com/in/desmond-chong-5750a5248/" class="icon brands alt fa-linkedin"><span class="label">LinkedIn</span></a></li>
+								</ul>
+							</section>
+						</section>
+					</footer>
+
+				<!-- Copyright -->
+					<div id="copyright">
+						<ul><li>&copy; Untitled</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li></ul>
+					</div>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
